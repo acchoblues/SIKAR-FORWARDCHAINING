@@ -1,5 +1,5 @@
-# SIKAR-FUZZYLOGIC
-Sistem Pakar Diagnosa Tanaman Sayur berbasis web dengan FUZZY LOGIC
+# SIKAR-FORWARD CHAINING
+Sistem Pakar Diagnosa Tanaman Sayur berbasis web dengan Forward Chaining
 
 Aplikasi ini di buat menggunakan PHP, MySQL dan Bootstrap 4, aplikasi ini bertujuan untuk
 mendeteksi diagnosa penyakit pada tanaman sayur sehingga dapat cara terbaik untuk penaggulangannya seperti,
